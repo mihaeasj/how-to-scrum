@@ -1,18 +1,16 @@
 # how-to-scrum
-Tutorial in Scrum 
+Tutorial i Scrum 
 
 *Som Studerende
-
 vil jeg lære at bruge Scrum-artifakter, -metoder og -ceremonier
-
 så jeg kan mestre Scrum*
-
 
 Dette er en øvelse i at forstå og bruge Scrum. Med andre ord skal I lære om scrum ved at udføre et Scrum.
 
-Øvelsen består af 1 til 2 sprint af 90 minutters varighed.
+Øvelsen består af 1 til 2 sprint af 90 minutters varighed hver.
 
-Forud for sprintet er der sat 45 minutter af til Sprint Planning og 90 minutter til udførelse af User Stories i Sprint 1.
+Forud for sprintet skal I bruge 45 minutter til at planlægge det første sprint.
+Dernæst skal I i løbet af sprintets 90 minutter udføre opgaverne beskrevet i User Stories
 
 Efter sprint 1 skal Product Owner tilkaldes til en gennemgang af jeres resultater.
 
