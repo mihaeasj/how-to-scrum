@@ -20,4 +20,4 @@ Det kunne være der blev tid til et Sprint 2. Her kunne jeres udfordringer give 
 
 **Definition of Done
 
-Opgaven er udført når forklaringen er skrevet, og de specifikke Acceptkriterier er opfyldt. Enten i et samlet dokument i løsningsrækkefølge eller som kommentar til User Stories (Issues)
+Opgaven er udført når forklaringen er skrevet, og de specifikke Acceptkriterier er opfyldt. Enten i et samlet dokument i løsningsrækkefølge eller som kommentar til hver enkelt User Story (Issue).
