@@ -18,5 +18,6 @@ I må ikke presse alle User Stories ind i 90 minutter, men udvælge og vurdere h
 
 Det kunne være der blev tid til et Sprint 2. Her kunne jeres udfordringer give input til nye User Stories.
 
-##Definition of Done##
+##Definition of Done
+
 Opgaven er udført når forklaringen er skrevet, og de specifikke Acceptkriterier er opfyldt. Enten i et samlet dokument i løsningsrækkefølge eller som kommentar til User Stories (Issues)
