@@ -1,7 +1,7 @@
 # how-to-scrum
 Tutorial i Scrum 
 
-*Som Studerende  
+*Som Studerende\
 vil jeg lære at bruge Scrum-artifakter, -metoder og -ceremonier\
 så jeg kan mestre Scrum*
 
