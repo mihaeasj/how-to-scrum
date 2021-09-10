@@ -1,9 +1,9 @@
 # how-to-scrum
 Tutorial i Scrum 
 
-	*Som Studerende\
-	vil jeg lære at bruge Scrum-artifakter, -metoder og -ceremonier\
-	så jeg kan mestre Scrum*
+	Som Studerende
+	vil jeg lære at bruge Scrum-artifakter, -metoder og -ceremonier
+	så jeg kan mestre Scrum
 
 Dette er en øvelse i at forstå og bruge Scrum. Med andre ord skal I lære om scrum ved at udføre det med Scrum.
 
